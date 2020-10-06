@@ -1,4 +1,4 @@
-Python API and Evaluation Code for v2.0 and v1.0 releases of the VQA dataset.
+VQA Project for Advanced Computer Vision
 ===================
 
 ## Edits and Changes ##
